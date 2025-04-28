@@ -19,4 +19,4 @@ This is useful for portability across desktop and mobile devices.
 
 # Algorithm
 
-See [doc/geom-ai-solution.md](./doc/geom-ai-solution.md) for a description of the algorithm.
+See [doc/geom-ai-solution.md](./doc/geom-ai-solution.md) or [doc/geom-ai-solution.pdf](./doc/geom-ai-solution.pdf) for a description of the algorithm.
