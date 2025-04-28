@@ -16,3 +16,7 @@ This technique can be used to place a background image and overlay buttons that 
 This is useful for portability across desktop and mobile devices.
 
 ![](./demo.gif)
+
+# Algorithm
+
+See [doc/geom-ai-solution.md](./doc/geom-ai-solution.md) for a description of the algorithm.
